@@ -1,0 +1,5 @@
+.env
+email_config.json
+__pycache__/
+token.pickle
+gmail_credentials.json

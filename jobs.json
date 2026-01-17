@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Machine Learning Intern",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "skills": ["Python", "Machine Learning", "Data Science"]
+  },
+  {
+    "title": "AI Engineer Intern",
+    "company": "TCS",
+    "location": "Chennai",
+    "skills": ["AI", "Python", "Deep Learning"]
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Wipro",
+    "location": "Hyderabad",
+    "skills": ["Python", "Data Science", "Statistics"]
+  },
+  {
+    "title": "Software Intern",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "skills": ["Java", "Web", "Python"]
+  }
+]
