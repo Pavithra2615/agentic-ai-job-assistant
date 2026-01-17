@@ -80,3 +80,13 @@ This makes the system **Agentic**, not just a prompt-based AI.
 
 ## 📂 Project Structure
 
+agentic-ai-job-assistant/
+│
+├── app.py # Streamlit UI & agent controller
+├── agent_brain.py # Reasoning logic
+├── job_search.py # Job search tool
+├── gmail_sender.py # Email automation
+├── applications.json # Memory (job status tracking)
+├── README.md # Project documentation
+└── .gitignore # Security exclusions
+
